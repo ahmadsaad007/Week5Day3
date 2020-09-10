@@ -1,0 +1,11 @@
+Java | What is Inheritance? | Answer1; Answer2; Answer3; Answer4; | 1
+Java | What is Inheritance? | Answer1; Answer2; Answer3; Answer4; | 2
+Math | What is 1+1? | 2; 3; 1; 11 | 0
+Math | What is 2+2? | 2; 4; 22; 24 | 1
+Java | What is Inheritance? | Answer1; Answer2; Answer3; Answer4; | 0
+Java | What is Inheritance? | Answer1; Answer2; Answer3; Answer4; | 4
+Java | What is Inheritance? | Answer1; Answer2; Answer3; Answer4; | 2
+Math | What is 1+1? | 2; 3; 1; 11 | 0
+Math | What is 2+2? | 2; 4; 22; 24 | 1
+Java | What is Inheritance? | Answer1; Answer2; Answer3; Answer4; | 0
+Java | What is Inheritance? | Answer1; Answer2; Answer3; Answer4; | 4
